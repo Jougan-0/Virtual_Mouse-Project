@@ -7,5 +7,7 @@ The Virtual Mouse is a software-based solution that simulates mouse input on a c
 # Features
 
 Cursor Movement: Simulate mouse cursor movement.
+
 Left Click: Simulate left mouse button clicks.
+
 Right Click: Simulate right mouse button clicks.
